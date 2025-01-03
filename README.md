@@ -14,3 +14,7 @@ The **Deep Recipe Generator (DRG)** is an AI-driven system that helps minimize f
 2. **Model**: LLaMA 2-7B pre-trained large language model.
 3. **Fine-Tuning Method**: LoRA for low-rank adaptation.
 4. **Evaluation Metrics**: BLEU, ROUGE, and human evaluators for performance analysis.
+
+
+## References
+- Paper: [Deep Recipe Generator](https://github.com/ufukozkul/Deep-Recipe-Generator/blob/main/DeepRecipeGenerator.pdf)
